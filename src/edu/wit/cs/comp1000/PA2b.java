@@ -20,15 +20,14 @@ public class PA2b {
 
 /**
  * The main method that runs the program.
- * It reads coefficients a, b, and c, calculates the discriminant, 
- * then determines whether the roots are imaginary, a single real root,
+ * It reads coefficients a, b, and c, calculates the discriminant, and then
+ * determines whether the roots are imaginary, a single real root,
  * or two real roots. 
  * 
  * @param args command-line arguments (not used)
  */
 	
 	public static void main(String[] args) {
-		// TODO: write your code here
 		
 		double a;
 		double b;
