@@ -30,7 +30,6 @@ public class PA2a {
  */
 	
 	public static void main(String[] args) {
-		// TODO: write your code here
 		
 		Scanner input = new Scanner(System.in);
 		
